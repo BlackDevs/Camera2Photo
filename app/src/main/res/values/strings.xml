@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CameraLib</string>
+
+    <string name="camera_error">Camera error</string>
+    <string name="not_have_camera">Device doesn\'t have camera</string>
+    <string name="ok_label">OK</string>
 </resources>
